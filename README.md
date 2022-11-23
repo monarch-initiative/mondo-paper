@@ -1,2 +1,3 @@
-# mondo-paper
-Repo to coordinate the work on Mondo papers
+# Mondo Paper Work
+
+Coordinating work in the Mondo paper.
